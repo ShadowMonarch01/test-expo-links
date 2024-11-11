@@ -1,0 +1,30 @@
+*{
+  background-color:rgb(31, 30, 30);
+  font-family: sans-serif;
+}
+
+.container{
+  flex: 1;
+  text-align: center;
+  padding-top: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+h1{
+  font-size:xx-large;
+  color: rgb(107, 100, 100);
+}
+
+p{
+  font-size: x-large;
+}
+
+p a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: rgb(67, 180, 67);
+}
